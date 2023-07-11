@@ -7,13 +7,13 @@ This portfolio repository will aid to facilitate and track my progress in data s
 
 ## Projects
 
-Project 1 - Rainfall in Singapore (EDA)
+Project 1 - Rainfall in Singapore (Data Cleaning|EDA|Data Visualization|Correlation)
 
 Project 2 - HDB Resale Price (Linear, Lasso, Ridge)
 
-Project 3 - Subreddit Webscraping NLP Classification differentiation Schizophrenia and Bipolar
+Project 3 - Subreddit Webscraping NLP Classification differentiation Schizophrenia and Bipolar 
 
-Project 4 - West Nile Virus Classification Modelling Gradient Boost Logistic Regression Ada Boost Random_Forest
+Project 4 - West Nile Virus Classification Modelling (Gradient Boost|Logistic Regression|Ada Boost|Random Forest) - 93% Accuracy
 
 Final Project - Deep Learning Pasenger Detection in Train cabins for Capacity Detection and Suspicious Article surveillance (On-Going finishing on 2nd Aug 23)
 
