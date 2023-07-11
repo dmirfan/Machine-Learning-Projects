@@ -1,4 +1,4 @@
-#  ![]() Daing Muhammad Irfan Bin Mohamed Farhan
+#  ![](https://www.nus.edu.sg/images/default-source/identity-images/NUS_logo_full-vertical.jpg) Daing Muhammad Irfan Bin Mohamed Farhan
 
 ### Repository Objectives:
 This portfolio repository will aid to facilitate and track my progress in data science. Employers and potential clients can view this space to verify my capabilities
