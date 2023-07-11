@@ -15,7 +15,7 @@ Project 3 - Subreddit Webscraping NLP Classification differentiation Schizophren
 
 Project 4 - West Nile Virus Classification Modelling (Gradient Boost|Logistic Regression|Ada Boost|Random Forest)
 
-Final Project - Deep Learning Pasenger Detection in Train cabins for Capacity Detection and Suspicious Article surveillance (On-Going finishing on 2nd Aug 23)
+Final Project - Deep Learning for Pasenger Detection in cabins for Capacity and Suspicious Article surveillance (On-Going)
 
 ---
 
