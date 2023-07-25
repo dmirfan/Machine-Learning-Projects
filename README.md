@@ -18,7 +18,7 @@ Try the App! = https://rgnt-prog-3.streamlit.app
 
 Project 4 - West Nile Virus Classification Modelling (Gradient Boost|Logistic Regression|Ada Boost|Random Forest)
 
-Try rhe App! = https://ga-proj4-wnv.streamlit.app
+Try the App! = https://ga-proj4-wnv.streamlit.app
 
 Final Project - Deep Learning for Pasenger Detection in cabins for Capacity and Suspicious Article surveillance (On-Going)
 
