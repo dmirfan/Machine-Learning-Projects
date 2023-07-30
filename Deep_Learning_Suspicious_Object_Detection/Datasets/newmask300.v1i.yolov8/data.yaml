@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['suspicious-objects']
+
+roboflow:
+  workspace: celebal-y10kk
+  project: newmask300
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/celebal-y10kk/newmask300/dataset/1

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['suspicious-objects']
+
+roboflow:
+  workspace: akshay-kumar-rana-l8nny
+  project: glass_detection-uduep
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/akshay-kumar-rana-l8nny/glass_detection-uduep/dataset/1
