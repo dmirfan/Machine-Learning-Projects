@@ -20,7 +20,7 @@ Project 4 - West Nile Virus Classification Modelling (Gradient Boost|Logistic Re
 
 Try the App! = https://ga-proj4-wnv.streamlit.app
 
-Final Project - Deep Learning for Pasenger Detection in cabins for Capacity and Suspicious Article surveillance (On-Going)
+Capstone Project - Deep Learning for Pasenger Detection in cabins for Capacity and Suspicious Article surveillance (On-Going)
 
 ---
 
