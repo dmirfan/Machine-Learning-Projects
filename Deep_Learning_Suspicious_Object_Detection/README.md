@@ -26,9 +26,9 @@ In the densely populated city-state of Singapore, where the Mass Rapid Transit (
 
 ## Model Evaluation
 
-<img src="/images/model_eval1.png" width="800" height="600">
-<img src="/images/model_eval2.png" width="800" height="600">
-<img src="/images/model_eval3.png" width="800" height="600">
+<img src="/images/model_eval1.jpeg" width="800" height="600">
+<img src="/images/model_eval2.jpeg" width="800" height="600">
+<img src="/images/model_eval3.jpeg" width="800" height="600">
 
 
 ## Dataset
@@ -49,9 +49,9 @@ Please refer to data dictionaries below for the full infomation found in the dat
 ## Images with annotations using Roboflow
 
 The below images are some of the samples of the datasets used.
-<img src="/images/annot1.png" width="800" height="600">
-<img src="/images/annot2.png" width="800" height="600">
-<img src="/images/annot3.gif" width="800" height="600">
+<img src="/images/annot1.jpeg" width="800" height="600">
+<img src="/images/annot2.jpeg" width="800" height="600">
+<img src="/images/annot3.jpeg" width="800" height="600">
 
 ---
 
@@ -72,9 +72,9 @@ Three main datasets were used in this project. The data dictionaries of the data
 ---
 ## Detection Images
 
-<img src="/images/detect1.png" width="800" height="600">
-<img src="/images/detect2.png" width="800" height="600">
-<img src="/images/detec1.gif" width="800" height="600">
+<img src="/images/detect1.jpeg" width="800" height="600">
+<img src="/images/detect2.jpeg" width="800" height="600">
+<img src="/images/detec1.jpeg" width="800" height="600">
 
 ---
 
@@ -84,9 +84,9 @@ I have deployed and integrate the model on to my personal domain page. On my own
 
 https://dmirfan.online
 
-<img src="/images/webpage1.png" width="800" height="600">
-<img src="/images/webpage2.png" width="800" height="600">
-<img src="/images/webpage3.gif" width="800" height="600">
+<img src="/images/webpage1.jpeg" width="800" height="600">
+<img src="/images/webpage2.jpeg" width="800" height="600">
+<img src="/images/webpage3.jpeg" width="800" height="600">
 
 
 ---
