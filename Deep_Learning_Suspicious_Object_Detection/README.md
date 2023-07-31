@@ -49,7 +49,7 @@ Please refer to data dictionaries below for the full infomation found in the dat
 ## Images with annotations using Roboflow
 
 The below images are some of the samples of the datasets used.
-<img src="/image/annot1.jpeg" width="800" height="600">
+<img src="Deep_Learning_Suspicious_Object_Detection/Image/annot1.jpeg" width="800" height="600">
 <img src="/image/annot2.jpeg" width="800" height="600">
 <img src="/image/annot3.jpeg" width="800" height="600">
 
