@@ -26,9 +26,9 @@ In the densely populated city-state of Singapore, where the Mass Rapid Transit (
 
 ## Model Evaluation
 
-<img src="/image/model_eval1.jpeg" width="800" height="600">
-<img src="/image/model_eval2.jpeg" width="800" height="600">
-<img src="/image/model_eval3.jpeg" width="800" height="600">
+<img src="Image/model_eval1.jpeg" width="800" height="600">
+<img src="Image/model_eval2.jpeg" width="800" height="600">
+<img src="Image/model_eval3.jpeg" width="800" height="600">
 
 
 ## Dataset
@@ -50,8 +50,8 @@ Please refer to data dictionaries below for the full infomation found in the dat
 
 The below images are some of the samples of the datasets used.
 <img src="Image/annot1.jpeg" width="800" height="600">
-<img src="/image/annot2.jpeg" width="800" height="600">
-<img src="/image/annot3.jpeg" width="800" height="600">
+<img src="Image/annot2.jpeg" width="800" height="600">
+<img src="Image/annot3.jpeg" width="800" height="600">
 
 ---
 
@@ -72,9 +72,9 @@ Three main datasets were used in this project. The data dictionaries of the data
 ---
 ## Detection Images
 
-<img src="/image/detect1.jpeg" width="800" height="600">
-<img src="/image/detect2.jpeg" width="800" height="600">
-<img src="/image/detec1.jpeg" width="800" height="600">
+<img src="Image/detect1.jpeg" width="800" height="600">
+<img src="Image/detect2.jpeg" width="800" height="600">
+<img src="Image/detec1.jpeg" width="800" height="600">
 
 ---
 
@@ -84,9 +84,9 @@ I have deployed and integrate the model on to my personal domain page. On my own
 
 https://dmirfan.online
 
-<img src="/image/webpage1.jpeg" width="800" height="600">
-<img src="/image/webpage2.jpeg" width="800" height="600">
-<img src="/image/webpage3.jpeg" width="800" height="600">
+<img src="Image/webpage1.jpeg" width="800" height="600">
+<img src="Image/webpage2.jpeg" width="800" height="600">
+<img src="Image/webpage3.jpeg" width="800" height="600">
 
 
 ---
