@@ -92,15 +92,18 @@ https://dmirfan.online
 ---
 
 ### Key takeaways from the project:
-1. The analysis reveals that years 2007 and 2013 had higher prevalence of West Nile Virus (WNV), as evident from the bar plot. Consequently, the corresponding plots show sharper peaks and declines in WNV activity during these years.
 
+Key Takeaway 1: Enhanced Real-Time Detection
 
-2. Temperature emerges as a significant factor influencing the spread of WNV. Higher temperatures (>60 degrees Fahrenheit) contribute to increased prevalence of WNV and the presence of infected mosquitoes.
+With the implementation of YOLOv8 for suspicious object detection in train cabins and public spaces, the ability to detect and identify potentially hazardous objects in real-time is significantly enhanced. This technology provides faster, more accurate identification and tracking of suspicious objects, enabling security teams to act swiftly and prevent potential threats.
 
+Key Takeaway 2: Improved Efficiency and Resource Allocation
 
-3. Lower average and resultant wind speeds (<10 mph) are associated with a higher abundance of mosquitoes and increased prevalence of WNV.
+The use of YOLOv8 reduces the need for extensive human surveillance, thereby improving the overall efficiency of the surveillance system. By automating the detection process, it frees up human resources to focus on response and intervention measures. Additionally, it reduces the chance of human error, which can be crucial in high-risk situations.
 
-4. Decreased total precipitation (<1.0 inch) is linked to higher prevalence of WNV and a greater number of mosquitoes carrying the virus.
+Key Takeaway 3: Balancing Security and Privacy
+
+The adoption of advanced AI-based surveillance technology like YOLOv8 brings up important considerations about privacy. While the system significantly improves security by effectively identifying suspicious objects, it's crucial to ensure that its implementation adheres to privacy regulations and ethical guidelines. This project underscores the need for a balanced approach that enhances security while also respecting individual privacy rights.
 
 ---
 
