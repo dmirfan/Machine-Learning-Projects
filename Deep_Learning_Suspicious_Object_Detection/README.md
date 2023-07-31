@@ -64,7 +64,7 @@ Three main datasets were used in this project. The data dictionaries of the data
 
 | Feature | Type | Dataset | Description |
 |:--|:-:|:-:|:--|
-|etection|object|cap| Series of cap images to be used to train the model|
+|detection|object|cap| Series of cap images to be used to train the model|
 |detection|object|sunglass| Series of sunglass images to be used to train the model|
 |detection|object|mask| Series of mask images to be used to train the model|
 |context|environment|train cabins| Series of train cabin images that may contain any of the above suspicious objects to be used to train the model|
