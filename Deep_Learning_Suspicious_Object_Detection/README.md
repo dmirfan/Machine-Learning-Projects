@@ -74,7 +74,7 @@ Three main datasets were used in this project. The data dictionaries of the data
 
 <img src="Image/detect1.jpeg" width="800" height="600">
 <img src="Image/detect2.jpeg" width="800" height="600">
-<img src="Image/detet3.jpeg" width="800" height="600">
+<img src="Image/detect3.jpeg" width="800" height="600">
 
 ---
 
