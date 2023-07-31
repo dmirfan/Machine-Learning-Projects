@@ -20,8 +20,8 @@ In the densely populated city-state of Singapore, where the Mass Rapid Transit (
 
 |Model|mAP|Precision|Recall|
 |:---:|:---:|:---:|:---:|
-|<font color="blue">Best Model (tuned)</font>|<font color="blue">0.853</font>|<font color="blue">0.767</font>|<font color="blue">0.868</font>|
-|Baseline Model|0.601|0.562|0.438|
+|<font color="blue">Best Model (tuned)</font>|<font color="blue">0.940</font>|<font color="blue">0.927</font>|<font color="blue">0.90.4</font>|
+|Baseline Model|0.721|0.702|0.688|
 
 
 ## Model Evaluation
