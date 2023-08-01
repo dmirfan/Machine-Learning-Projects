@@ -39,9 +39,10 @@ The train cabin images dataset consists of data from 2023. I will be using this 
 
 The cap images dataset consists of different type and colours of caps that will be used to identify caps in an image which will be classified as suspicious objects. Cap identification is one of the top suspicious object for a person to be wearing and it helps to improve the True Positives. 
 
-The sunglasses images dataset consists of different type and colours of caps that will be used to identify caps in an image which will be classified as suspicious objects. Cap identification is one of the top suspicious object for a person to be wearing and it helps to improve the True Positives. 
+The sunglasses images dataset consists of different type and colours of sunglasses that will be used to identify sunglasses in an image which will be classified as suspicious objects. Sunglasses identification is one of the top suspicious object for a person to be wearing and it helps to improve the True Positives. 
 
-The mask images dataset consists of weather conditions of 2007 to 2014, during the months of the tests. It is believed that hot and dry conditions are more favorable for West Nile virus than cold and wet. 
+The mask images dataset consists of different type and colours of masks that will be used to identify masks in an image which will then be classified as suspicious objects. Mask identification is one of the top suspicious object for a person to be wearing and it helps to improve the True Positives. 
+
 
 Please refer to data dictionaries below for the full infomation found in the datasets.
 
