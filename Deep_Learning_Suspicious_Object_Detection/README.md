@@ -23,7 +23,7 @@ In the densely populated city-state of Singapore, where the Mass Rapid Transit (
 |<font color="blue">Best Model (tuned)</font>|<font color="blue">0.940</font>|<font color="blue">0.927</font>|<font color="blue">0.904</font>|
 |Baseline Model|0.721|0.702|0.688|
 
-<img src="Image/demo.gif" width="800" height="600">
+<img src="Image/demo.gif" width="400" height="300">
 
 ## Model Evaluation
 
@@ -93,7 +93,7 @@ https://dmirfan.online
 If the Live Application on my webpage is not working, you may try scanning the QR code below to access the Live Webcam directly from roboflow to your phone to test the model.
 Caps-Sunglasses-Mask
 
-<img src="Image/QR_code.jpeg" width="800" height="600">
+<img src="Image/QR_code.jpeg" width="200" height="150">
 
 ---
 
