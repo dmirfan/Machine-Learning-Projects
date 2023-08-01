@@ -13,7 +13,9 @@ The limitations of the existing surveillance methods highlight a crucial gap in 
 
 ## Problem Statement
 
-In the densely populated city-state of Singapore, where the Mass Rapid Transit (MRT) system is a primary mode of transportation, the critical importance of public safety and security cannot be overstated. The current surveillance methods, primarily conventional video-based monitoring in train cabins and other public spaces, have proved to be less efficient in real-time object detection and tracking, especially for suspicious objects that could pose significant risks and security threats. This limitation is particularly concerning in high-density spaces like train cabins, where quick identification and resolution of such threats are crucial. Moreover, given Singapore's emphasis on public cleanliness and order, an effective object detection system can also contribute to better waste management and retrieval of lost items. The existing surveillance systems suffer from labor-intensive and error-prone manual monitoring, lack of real-time alerts, and absence of advanced features like object classification. Therefore, there is a pressing need for an intelligent, autonomous object detection surveillance system capable of detecting, classifying, and tracking objects, including suspicious ones, in real-time. The successful development and implementation of such a system, while ensuring high accuracy, reliability, and addressing privacy concerns, could significantly enhance the security and overall safety in Singapore's public spaces.
+In the densely populated city-state of Singapore, where the Mass Rapid Transit (MRT) system is a primary mode of transportation, the critical importance of public safety and security cannot be overstated. The current surveillance methods, primarily conventional video-based monitoring in train cabins and other public spaces, have proved to be less efficient in real-time object detection and tracking, especially for suspicious objects that could pose significant risks and security threats. This limitation is particularly concerning in high-density spaces like train cabins, where quick identification and resolution of such threats are crucial. Moreover, given Singapore's emphasis on public cleanliness and order, an effective object detection system can also contribute to better waste management and retrieval of lost items. The existing surveillance systems suffer from labor-intensive and error-prone manual monitoring, lack of real-time alerts, and absence of advanced features like object classification. 
+
+Therefore, there is a pressing need for an intelligent, autonomous object detection surveillance system capable of detecting, classifying, and tracking objects, including suspicious ones, in real-time. The successful development and implementation of such a system, while ensuring high accuracy, reliability, and addressing privacy concerns, could significantly enhance the security and overall safety in Singapore's public spaces.
 
 
 ## Modeling Score
@@ -23,7 +25,7 @@ In the densely populated city-state of Singapore, where the Mass Rapid Transit (
 |<font color="blue">Best Model (tuned)</font>|<font color="blue">0.940</font>|<font color="blue">0.927</font>|<font color="blue">0.904</font>|
 |Baseline Model|0.721|0.702|0.688|
 
-<img src="Image/demo.gif" width="800" height="600">
+<img src="Image/demo.gif" width="400" height="300">
 
 ## Model Evaluation
 
@@ -93,7 +95,7 @@ https://dmirfan.online
 If the Live Application on my webpage is not working, you may try scanning the QR code below to access the Live Webcam directly from roboflow to your phone to test the model.
 Caps-Sunglasses-Mask
 
-<img src="Image/QR_code.jpeg" width="800" height="600">
+<img src="Image/QR_code.jpeg" width="200" height="150">
 
 ---
 
