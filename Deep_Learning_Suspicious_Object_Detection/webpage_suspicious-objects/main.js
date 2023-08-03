@@ -22,8 +22,8 @@ $(function () {
                 };
             });
         });
-
-    var publishable_key = "rf_QbnF9SUC9dZU3ED3mF3W4S9rbgm1";
+/*the publishable_key has been masked*/
+    var publishable_key = "*******";
     var toLoad = {
         model: "suspicious-objects-articles-3",
         version: 1
